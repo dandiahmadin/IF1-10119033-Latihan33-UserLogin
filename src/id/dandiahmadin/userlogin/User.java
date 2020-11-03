@@ -8,7 +8,10 @@ package id.dandiahmadin.userlogin;
 /**
  *
  * @author
- * 
+ * NAMA     : Dandi Ahmadin
+ * KELAS    : IF-1
+ * NIM      : 10119033
+ * Deskripsi Program : Program ini berisi class User 
  */
 public class User {
    private final String USERNAME = "RizkiAdam";

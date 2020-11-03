@@ -8,7 +8,10 @@ import java.util.Scanner;
 /**
  *
  * @author
- * 
+ * NAMA     : Dandi Ahmadin
+ * KELAS    : IF-1
+ * NIM      : 10119033
+ * Deskripsi Program : Program ini berisi user login dengan pendekatan objek
  */
 public class Latihan33Login {
     private static String usName,passWord;
