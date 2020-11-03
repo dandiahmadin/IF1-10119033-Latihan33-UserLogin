@@ -11,7 +11,7 @@ import java.util.Scanner;
  * NAMA     : Dandi Ahmadin
  * KELAS    : IF-1
  * NIM      : 10119033
- * Deskripsi Program : Program ini berisi user login dengan pendekatan objek
+ * Deskripsi Program : Program ini berisi user login dengan konsep pendekatan berbasis objek
  */
 public class Latihan33Login {
     private static String usName,passWord;
